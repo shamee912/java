@@ -4,7 +4,7 @@ public class logical
     {
         int a=3;
         int b=5;
-        if(a<b && a!=b)
+        if(a<b || a!=b)
         {
             System.out.println("True");
         }
