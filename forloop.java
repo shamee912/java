@@ -4,7 +4,7 @@ public class forloop
     {
         
         int i;
-        for(i=0;i<10;i++)
+        for(i=20;i>10;i--)
         {
             System.out.println(i);
         }
